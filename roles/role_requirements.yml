@@ -1,0 +1,8 @@
+# File used for managing role requirements and their versions
+- src: git+https://github.com/yetu/ansible-apt.git
+  version: "v0.1.4"
+  name: ansible-apt
+
+- src: git+https://github.com/yetu/ansible-hostname.git
+  version: "v0.1.2"
+  name: ansible-hostname
